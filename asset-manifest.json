@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monstox/static/css/main.cf95affe.css",
+    "main.js": "/monstox/static/js/main.263c661a.js",
+    "static/js/787.787f19d2.chunk.js": "/monstox/static/js/787.787f19d2.chunk.js",
+    "index.html": "/monstox/index.html",
+    "main.cf95affe.css.map": "/monstox/static/css/main.cf95affe.css.map",
+    "main.263c661a.js.map": "/monstox/static/js/main.263c661a.js.map",
+    "787.787f19d2.chunk.js.map": "/monstox/static/js/787.787f19d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf95affe.css",
+    "static/js/main.263c661a.js"
+  ]
+}
